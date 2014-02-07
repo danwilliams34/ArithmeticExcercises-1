@@ -1,6 +1,6 @@
 def sqa(a,a):
     answer =  a*a
-    return (answer)
+    return(answer)
 
-print (sqa(12))
+print(sqa(12))
 #expected outcome is 144# 
