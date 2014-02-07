@@ -1,5 +1,5 @@
 def mult(a,b):
-    answer =  a*b
+    answer = a*b
     return(answer)
 
 print(mult(4,12))
